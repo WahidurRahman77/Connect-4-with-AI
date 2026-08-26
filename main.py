@@ -5,7 +5,7 @@ import math
 import random
 
 # --- Constants & Configuration ---
-ROW_COUNT = 7    # <--- Board is now 7x7 to fix the rotation overflow!
+ROW_COUNT = 7    # <--- Board is now 7x7 
 COLUMN_COUNT = 7
 SQUARESIZE = 100
 RADIUS = int(SQUARESIZE/2 - 5)
